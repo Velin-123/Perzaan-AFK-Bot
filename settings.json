@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "VELIN_SHAH",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "velin.aternos.me",
+    "port": 44773,
     "version": "1.21.1"
   },
   "position": {
